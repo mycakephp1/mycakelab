@@ -1,0 +1,4 @@
+mycakelab
+=========
+
+CakePHP application
